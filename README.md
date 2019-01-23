@@ -1,0 +1,2 @@
+# ClassExercises
+Class project stuff
